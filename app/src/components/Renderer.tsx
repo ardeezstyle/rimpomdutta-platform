@@ -8,9 +8,7 @@ function Renderer() {
 
   useEffect(() => {
     const chaptersService = new ChaptersService();
-    chaptersService.getChapter(Chapters.My_Mother_at_Sixty_Six_Kamala_Das).then((chapter) => {
-      setChapter(chapter);
-    });
+    chaptersService.getChapter(Chapters.My_Mother_at_Sixty_Six_Kamala_Das).then(setChapter);
   }, []);
 
   const RenderBlock = ({ block }: { block: ChapterBlock }) => {

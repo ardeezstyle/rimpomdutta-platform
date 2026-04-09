@@ -56,9 +56,14 @@
   }
   
   .extractTitle {
-    font-size: 1.15rem;
-    margin: 0.25rem 0 0.5rem;
+    margin: 0 0 0.5rem;
     color: var(--text-h);
+    white-space: pre-line;
+  }
+
+  .extractTitle > div {
+    margin: 0.25rem 3rem;
+    font-style: italic;
   }
   
   .extractList {

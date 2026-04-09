@@ -1,129 +1,153 @@
 {
-    "title": "My Mother at Sixty-Six",
-    "author": "Kamala Das",
-    "content": [
-      {
-        "type": "qa",
-        "id": 1,
-        "question": "Who is the poet of My Mother at Sixty-Six?",
-        "answer": "The much-acclaimed Indo-Anglian poetess Kamala Das composed the poem entitled My Mother at Sixty-Six."
-      },
-      {
-        "type": "qa",
-        "id": 2,
-        "question": "Where was Kamala Das going with her old mother?",
-        "answer": "Kamala Das was travelling with her old and ailing mother to the airport in Cochin (Kochi)."
-      },
-      {
-        "type": "qa",
-        "id": 3,
-        "question": "Why does Kamala Das put away the thought of her mother's death?",
-        "answer": "She puts away the negative and painful thought of losing her mother as it is unpleasant and distressing."
-      },
-      {
-        "type": "qa",
-        "id": 4,
-        "question": "What does Kamala Das notice when the security check is over at the airport?",
-        "answer": "She notices that her aged mother looks pale like a dead body, similar to a late winter's moon."
-      },
-      {
-        "type": "qa",
-        "id": 5,
-        "question": "How does Kamala Das compare the face of her mother?",
-        "answer": "She compares her mother's face to an ashen corpse."
-      },
-      {
-        "type": "qa",
-        "id": 6,
-        "question": "Why does Kamala Das bid her mother with a smiling face?",
-        "answer": "She smiles to hide her fear and to reassure her ageing mother."
-      },
-      {
-        "type": "qa",
-        "id": 7,
-        "question": "What were Kamala Das’s thoughts when she looked at her mother?",
-        "answer": "She felt pain and fear, realising her mother's old age and approaching death."
-      },
-      {
-        "type": "qa",
-        "id": 8,
-        "question": "Contrast the scene that Kamala Das was observing inside and outside.",
-        "answer": "Inside the car, she observed her mother's pale and lifeless face symbolizing death. Outside, she saw young trees sprinting and merry children spilling out of their homes, symbolizing life, energy, and vitality."
-      },
-      {
-        "type": "qa",
-        "id": 9,
-        "question": "What does the expression 'young trees sprinting' signify?",
-        "answer": "It signifies youthful energy, vitality, and movement."
-      },
-      {
-        "type": "qa",
-        "id": 10,
-        "question": "What do 'merry children spilling out of their homes' signify?",
-        "answer": "It symbolizes joy, innocence, and youthful exuberance."
-      },
-      {
-        "type": "qa",
-        "id": 11,
-        "question": "What is the significance of the poet's realization?",
-        "answer": "It highlights the contrast between life and death and the inevitability of ageing and mortality."
-      },
-      {
-        "type": "qa",
-        "id": 12,
-        "question": "What is the other name of Kamala Das?",
-        "answer": "Madhavikutty."
-      },
-      {
-        "type": "qa",
-        "id": 13,
-        "question": "Mention the name of the novel written by Kamala Das.",
-        "answer": "Alphabets of Lust (1977)."
-      },
-      {
-        "type": "qa",
-        "id": 14,
-        "question": "Mention the name of the collection of short stories of Kamala Das.",
-        "answer": "Padmavati the Harlot and Other Stories (1992)."
-      },
-      {
-        "type": "qa",
-        "id": 15,
-        "question": "What kind of pain and ache does the poet feel?",
-        "answer": "The poet experiences a familiar and persistent pain and ache in her mind, recalling the fear of losing her mother."
-      },
-      {
-        "type": "qa",
-        "id": 16,
-        "question": "Why are the young trees described as 'sprinting'?",
-        "answer": "They appear to move quickly, symbolizing youth, energy, and vitality."
-      },
-      {
-        "type": "extract",
-        "id": 17,
-        "title": "Driving from my parents' home – put that thought away",
-        "questions": [
-          {
-            "id": "a",
-            "question": "Where was Kamala Das headed for and what did she discover?",
-            "answer": "Kamala Das was heading towards the airport in Cochin (Kochi) and discovered her aged mother to be at the threshold of death."
-          },
-          {
-            "id": "b",
-            "question": "What do the words 'ashen', 'open-mouthed' and 'corpse' signify?",
-            "answer": "These words signify that her mother was in a fragile condition due to old age and was nearing death."
-          },
-          {
-            "id": "c",
-            "question": "What do the mentioned words indicate about the state of mind of Kamala Das?",
-            "answer": "They indicate that she was depressed and grief-stricken, realizing the inevitable death of her mother."
-          },
-          {
-            "id": "d",
-            "question": "What does the expression 'put that thought away' mean?",
-            "answer": "It means that she tried to avoid thinking about her mother's approaching death."
-          }
-        ]
-      }
-    ]
-  }
+  "title": "My Mother at Sixty-Six",
+  "author": "Kamala Das",
+  "content": [
+    {
+      "type": "qa",
+      "id": 1,
+      "question": "Who is the poet of “My Mother at Sixty-Six”?",
+      "answer": "The much-acclaimed Indo-Anglian poetess Kamala Das composed the poem entitled “My Mother at Sixty-Six”."
+    },
+    {
+      "type": "qa",
+      "id": 2,
+      "question": "Where was Kamala Das going with her old mother?",
+      "answer": "Kamala Das was travelling with her old and lacklustre mother to the airport in Cochin (now known as Kochi)."
+    },
+    {
+      "type": "qa",
+      "id": 3,
+      "question": "Why does Kamala Das put away the thought of her mother’s death?",
+      "answer": "Kamala Das puts away the negative and unwanted thought about the death of her aged mother in order to get diverted from that melancholic situation."
+    },
+    {
+      "type": "qa",
+      "id": 4,
+      "question": "What does Kamala Das notice after the security check-up at the airport?",
+      "answer": "Kamala Das noticed that her aged mother appeared to be pale just like the “ashen appearance of a late winter’s moon”."
+    },
+    {
+      "type": "qa",
+      "id": 5,
+      "question": "How does Kamala Das compare the face of her mother?",
+      "answer": "Kamala Das compared the dull and lifeless face of her aged mother to be ashen like that of a corpse (dead body)."
+    },
+    {
+      "type": "qa",
+      "id": 6,
+      "question": "Why does Kamala Das bid her mother with a smiling face?",
+      "answer": "The eminent Indo-Anglian poetess Kamala Das bade her mother with a smiling face for a definite reason. Actually, by doing so, she wished to hide her own old mother from a pain or even anguish, to provide her with a slight ray of optimism for her survival."
+    },
+    {
+      "type": "qa",
+      "id": 7,
+      "question": "What familiar ache does Kamala Das refer—why does it return?",
+      "answer": "The familiar ache that Kamala Das refers to was the “pain of separation” and unavoidable fear of the demise of her aged mother. It returned because the poetess realised that her mother had grown really very old and seemed to be very close to her end."
+    },
+    {
+      "type": "qa",
+      "id": 8,
+      "question": "Contrast the scene that Kamala Das was observing both inside and outside the car.",
+      "answer": "The different scenes visualised by the poetess Kamala Das were in stark contrast with each other. Inside the car was gloomy and pessimistic feeling developed by her ageing mother. But the scene outside the car was completely contrasting. Actually, the presence of young trees sprinting and the merry children spilling out of their homes on the way brought a positive and lively contrast. Thus Kamala Das applied such contrasting devices to enhance the poetic effect."
+    },
+    {
+      "type": "qa",
+      "id": 9,
+      "question": "What term does Kamala Das use to address her mother?",
+      "answer": "Kamala Das used the term “Amma” to address her mother."
+    },
+    {
+      "type": "qa",
+      "id": 10,
+      "question": "What was the age of the mother of Kamala Das as mentioned in the poem?",
+      "answer": "The mother of Kamala Das was sixty-six years old as highlighted in the poem entitled “My Mother at Sixty-Six”."
+    },
+    {
+      "type": "qa",
+      "id": 11,
+      "question": "In which place was Kamala Das born?",
+      "answer": "Kamala Das was born in the coastal region of Malabar in the state of Kerala."
+    },
+    {
+      "type": "qa",
+      "id": 12,
+      "question": "What is the other name of Kamala Das?",
+      "answer": "The other name of Kamala Das was “Madhavikutty”."
+    },
+    {
+      "type": "qa",
+      "id": 13,
+      "question": "Mention the name of the novel written by Kamala Das.",
+      "answer": "The name of the novel written by Kamala Das was “Alphabet of Lust” (1977)."
+    },
+    {
+      "type": "qa",
+      "id": 14,
+      "question": "Mention the name of the collection of short stories of Kamala Das.",
+      "answer": "The name of the collection of short stories written by Kamala Das was “Padmavati the Harlot and Other Stories” (1992)."
+    },
+    {
+      "type": "qa",
+      "id": 15,
+      "question": "What is the kind of pain and ache that the poet feels?",
+      "answer": "The eminent Indo-Anglian poetess Kamala Das had a particular feeling of pain and ache in her mind. Actually, she developed the undesirable feeling that her mother was going to die very soon thus leaving her solitary in a patriarchal society."
+    },
+    {
+      "type": "qa",
+      "id": 16,
+      "question": "Why are the young trees described as “sprinting”?",
+      "answer": "The young trees projected in the marvellous poem entitled “My Mother at Sixty-Six” were described as “sprinting” by the Indo-Anglian poetess Kamala Das because it appeared to her that they were moving with complete agility along with the movement of the car of Kamala Das. On the symbolical level, those trees symbolised the agility of youth and they also symbolised the gradual passing away of time."
+    },
+    {
+      "type": "qa",
+      "id": 17,
+      "question": "Why has the poet brought in the image of the “merry children spilling out of their homes”?",
+      "answer": "The eminent Indo-Anglian poetess Kamala Das had brought in the vibrant imagery of the “merry children spilling out of their homes” in the poem entitled “My Mother at Sixty-Six” in order to create a deep poetic effect. In addition to this, she used this imagery as she wanted to divert her melancholic feelings about the untimely and unavoidable demise of her mother."
+    },
+    {
+      "type": "qa",
+      "id": 18,
+      "question": "Write about the characteristics in the writings of Kamala Das.",
+      "answer": "Kamala Das was a celebrated Indo-Anglian poetess whose works were known for their originality, versatility and the indigenous flavour of the soil. Besides, her works were also accepted worldwide for her intention of highlighting the different dimensions of human relationships."
+    },
+    {
+      "type": "qa",
+      "id": 19,
+      "question": "Why was the mother of Kamala Das compared to the “late winter’s moon”?",
+      "answer": "The aged and wrinkled mother of Kamala Das was compared to the late winter’s moon for a definite reason. She was compared like that by Kamala Das as she was ageing and decaying rapidly and had shrunken to an ashen face resembling a corpse."
+    },
+    {
+      "type": "qa",
+      "id": 20,
+      "question": "What do the parting words of the poet and her smile signify?",
+      "answer": "The parting words of the poet Kamala Das signified a reluctant acceptance against the inevitable demise of her aged mother. The smile of Kamala Das also provided her with the opportunity to surmount the ever-increasing fear about the undesirable death of her mother."
+    },
+    {
+      "type": "extract",
+      "id": 21,
+      "title": "Driving from my parents’ \n put that thought away",
+      "questions": [
+        {
+          "id": "a",
+          "question": "Where was Kamala Das headed to and what did she discover?",
+          "answer": "The poetess Kamala Das was heading towards the airport in Cochin (now known as Kochi) and she discovered her aged mother to be at the threshold of death."
+        },
+        {
+          "id": "b",
+          "question": "What do the words “ashen”, “open mouthed” and “corpse” signify?",
+          "answer": "The words “ashen”, “open-mouthed” and “corpse” signified that the mother of Kamala Das was in a fragile condition due to her growing age and also indicated her approaching death."
+        },
+        {
+          "id": "c",
+          "question": "What do the mentioned words indicate about the state of mind of Kamala Das?",
+          "answer": "The mentioned words indicated that the poetess Kamala Das became depressed and grief-stricken by realising about inevitable death of her old mother."
+        },
+        {
+          "id": "d",
+          "question": "What does the expression “put that thought away” mean?",
+          "answer": "The expression “put that thought away” indicated that the poetess Kamala Das decided to drive the negative thought about the approaching death of her old mother."
+        }
+      ]
+    }
+  ]
+}

@@ -25,7 +25,10 @@ function Renderer() {
       case QuestionType.EXTRACT:
         return (
           <section className="extractItem" key={`extract-${block.id}`}>
-            <h2 className="extractTitle">{block.title}</h2>
+            <div className="extractTitle">
+              <em>{block.id}.</em>
+              <div>{block.title}</div>
+            </div>
             <ol className="extractList">
               {block.questions.map((q) => (
                 <li key={q.id}>

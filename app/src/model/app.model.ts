@@ -4,10 +4,13 @@ export type Chapter = {
 	content: ChapterBlock[];
 }
 export type ChapterBlock = QAItem | ExtractItem;
-export enum QuestionType {
-	QA = 'qa',
-	EXTRACT = 'extract',
-}
+export const QuestionType = {
+  QA: 'qa',
+  EXTRACT: 'extract',
+} as const;
+
+export type QuestionType = typeof QuestionType[keyof typeof QuestionType];
+
 export type QAItem = {
 	type: typeof QuestionType.QA;
 	id: number;

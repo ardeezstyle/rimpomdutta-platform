@@ -1,0 +1,78 @@
+{
+    "title": "The Interview",
+    "author": "Christopher Silvester",
+    "content": [
+      {
+        "type": "qa",
+        "id": 1,
+        "question": "Who is the author of 'The Interview'?",
+        "answer": "The prose piece 'The Interview' is edited by Christopher Silvester."
+      },
+      {
+        "type": "qa",
+        "id": 2,
+        "question": "What are the two parts of 'The Interview'?",
+        "answer": "The lesson is divided into two parts. The first part discusses the opinions of various writers about interviews, and the second part presents an interview of Umberto Eco."
+      },
+      {
+        "type": "qa",
+        "id": 3,
+        "question": "What does V.S. Naipaul feel about interviews?",
+        "answer": "V.S. Naipaul feels that interviews are intrusive and violate a person's privacy."
+      },
+      {
+        "type": "qa",
+        "id": 4,
+        "question": "What does Lewis Carroll think about interviews?",
+        "answer": "Lewis Carroll considered interviews to be an unwarranted intrusion into personal life."
+      },
+      {
+        "type": "qa",
+        "id": 5,
+        "question": "What is the positive aspect of interviews mentioned in the lesson?",
+        "answer": "Interviews help us understand the thoughts, personalities, and experiences of famous people."
+      },
+      {
+        "type": "qa",
+        "id": 6,
+        "question": "Who is Umberto Eco?",
+        "answer": "Umberto Eco was a famous Italian author, philosopher, and scholar."
+      },
+      {
+        "type": "qa",
+        "id": 7,
+        "question": "What is Umberto Eco known for?",
+        "answer": "He is known for his novel 'The Name of the Rose' and his work in semiotics."
+      },
+      {
+        "type": "qa",
+        "id": 8,
+        "question": "What does Umberto Eco say about his writing style?",
+        "answer": "He says that he writes in a way that combines his academic interests with creative storytelling."
+      },
+      {
+        "type": "qa",
+        "id": 9,
+        "question": "What does Umberto Eco mean by 'interstices'?",
+        "answer": "He refers to small gaps of time between his regular work that he uses for writing."
+      },
+      {
+        "type": "qa",
+        "id": 10,
+        "question": "How does Eco manage his time?",
+        "answer": "He uses small fragments of time efficiently to work on his writing and other activities."
+      },
+      {
+        "type": "qa",
+        "id": 11,
+        "question": "What does the lesson say about interviews in general?",
+        "answer": "The lesson presents both positive and negative views, showing that interviews can be both insightful and intrusive."
+      },
+      {
+        "type": "qa",
+        "id": 12,
+        "question": "What message does the lesson convey?",
+        "answer": "The lesson conveys that while interviews can provide valuable insights, they must be conducted with sensitivity and respect for privacy."
+      }
+    ]
+  }

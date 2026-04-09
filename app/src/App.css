@@ -1,0 +1,79 @@
+/* Reading layout for chapter/Q&A */
+.reader {
+    width: 100%;
+    max-width: 42rem;          /* keeps line length readable */
+    margin: 0 auto;
+    padding: 16px 16px 40px;   /* mobile-first padding */
+    box-sizing: border-box;
+  }
+  
+  .reader h1 {
+    font-size: 1.75rem;        /* overrides global 56px on mobile */
+    line-height: 1.15;
+    margin: 16px 0 8px;
+  }
+  
+  .reader .byline {
+    margin: 0 0 16px;
+    color: var(--text);
+    opacity: 0.9;
+    font-size: 0.95rem;
+  }
+  
+  .qaItem,
+  .extractItem {
+    padding: 12px 0;
+    border-top: 1px solid var(--border);
+  }
+  
+  .qaItem:first-of-type,
+  .extractItem:first-of-type {
+    border-top: 0;
+  }
+  
+  .question,
+  .answer {
+    margin: 0.35rem 0;
+    line-height: 1.55;
+    white-space: normal;
+    overflow-wrap: anywhere;   /* critical for long strings on mobile */
+    word-break: break-word;    /* fallback */
+  }
+  
+  .question {
+    color: var(--text-h);
+    font-weight: 600;
+  }
+  
+  .answer {
+    color: var(--text);
+  }
+  
+  .answerLabel {
+    font-style: italic;
+    opacity: 0.9;
+    margin-right: 0.25rem;
+  }
+  
+  .extractTitle {
+    font-size: 1.15rem;
+    margin: 0.25rem 0 0.5rem;
+    color: var(--text-h);
+  }
+  
+  .extractList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Slightly roomier on tablets/desktop */
+  @media (min-width: 640px) {
+    .reader {
+      padding: 24px 20px 56px;
+    }
+    .reader h1 {
+      font-size: 2.25rem;
+      margin-top: 24px;
+    }
+  }
